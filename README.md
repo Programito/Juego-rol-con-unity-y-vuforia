@@ -4,9 +4,9 @@ Prototipo de juego de rol de mesa de Star Wars con realidad aumentada.
 
 - Realidad amentada con vuforia
 
--Unity
+- Unity
 
--C#
+- C#
 
 - Animations
 Objetos 3d con animaciones 
